@@ -13,4 +13,4 @@ RUN npm run build
 EXPOSE 3000
 
 # Iniciamos el servidor de Next.js
-CMD["npm", "start"]
+CMD ["npm", "start"]
