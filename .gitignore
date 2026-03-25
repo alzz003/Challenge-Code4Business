@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+.next/
+dist/
+build/
+
+# Base de datos local
+backend/database.sqlite
+
+# Variables de entorno y logs
+.env
+*.log
+npm-debug.log*
+
+# Docker logs
+.docker/
